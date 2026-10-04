@@ -1,0 +1,61 @@
+route_id,route_name_canonical,origin,destination,distance_km,fare_tier
+1,Lagos-Abuja,Lagos,Abuja,359,LONG
+2,Lagos-Ibadan,Lagos,Ibadan,66,SHORT
+3,Lagos-Port Harcourt,Lagos,Port Harcourt,228,MEDIUM
+4,Lagos-Enugu,Lagos,Enugu,124,MEDIUM
+5,Lagos-Kano,Lagos,Kano,441,LONG
+6,Lagos-Benin City,Lagos,Benin City,187,MEDIUM
+7,Lagos-Kaduna,Lagos,Kaduna,477,LONG
+8,Lagos-Abeokuta,Lagos,Abeokuta,51,SHORT
+9,Lagos-Onitsha,Lagos,Onitsha,75,SHORT
+10,Lagos-Warri,Lagos,Warri,171,MEDIUM
+11,Lagos-Maiduguri,Lagos,Maiduguri,616,LONG
+12,Lagos-Calabar,Lagos,Calabar,87,SHORT
+13,Lagos-Akure,Lagos,Akure,127,MEDIUM
+14,Lagos-Uyo,Lagos,Uyo,82,SHORT
+15,Lagos-Jos,Lagos,Jos,356,LONG
+16,Lagos-Ilorin,Lagos,Ilorin,180,MEDIUM
+17,Lagos-Zaria,Lagos,Zaria,484,LONG
+18,Lagos-Asaba,Lagos,Asaba,57,SHORT
+19,Lagos-Abadan,Lagos,Abadan,102,SHORT
+20,Lagos-Sokoto,Lagos,Sokoto,525,LONG
+21,Abuja-Kaduna,Abuja,Kaduna,1184,ULTRA
+22,Abuja-Kano,Abuja,Kano,1218,ULTRA
+23,Abuja-Jos,Abuja,Jos,1213,ULTRA
+24,Abuja-Enugu,Abuja,Enugu,831,X_LONG
+25,Abuja-Maiduguri,Abuja,Maiduguri,1370,ULTRA
+26,Abuja-Bauchi,Abuja,Bauchi,1226,ULTRA
+27,Abuja-Makurdi,Abuja,Makurdi,1084,ULTRA
+28,Abuja-Ilorin,Abuja,Ilorin,942,X_LONG
+29,Abuja-Port Harcourt,Abuja,Port Harcourt,989,X_LONG
+30,Abuja-Owerri,Abuja,Owerri,1020,ULTRA
+31,Port Harcourt-Enugu,Port Harcourt,Enugu,530,LONG
+32,Port Harcourt-Aba,Port Harcourt,Aba,682,LONG
+33,Port Harcourt-Owerri,Port Harcourt,Owerri,659,LONG
+34,Port Harcourt-Warri,Port Harcourt,Warri,597,LONG
+35,Port Harcourt-Uyo,Port Harcourt,Uyo,538,LONG
+36,Port Harcourt-Calabar,Port Harcourt,Calabar,506,LONG
+37,Port Harcourt-Onitsha,Port Harcourt,Onitsha,531,LONG
+38,Port Harcourt-Asaba,Port Harcourt,Asaba,576,LONG
+39,Port Harcourt-Ibadan,Port Harcourt,Ibadan,524,LONG
+40,Ibadan-Enugu,Ibadan,Enugu,240,MEDIUM
+41,Ibadan-Lagos,Ibadan,Lagos,138,MEDIUM
+42,Ibadan-Ogbomoso,Ibadan,Ogbomoso,232,MEDIUM
+43,Ibadan-Oyo,Ibadan,Oyo,173,MEDIUM
+44,Ibadan-Ilorin,Ibadan,Ilorin,285,MEDIUM
+45,Ibadan-Akure,Ibadan,Akure,332,MEDIUM
+46,Ibadan-Abeokuta,Ibadan,Abeokuta,161,MEDIUM
+47,Enugu-Onitsha,Enugu,Onitsha,286,MEDIUM
+48,Enugu-Owerri,Enugu,Owerri,442,LONG
+49,Enugu-Awka,Enugu,Awka,256,MEDIUM
+50,Enugu-Umuahia,Enugu,Umuahia,455,LONG
+51,Enugu-Aba,Enugu,Aba,444,LONG
+52,Enugu-Makurdi,Enugu,Makurdi,466,LONG
+53,Kano-Kaduna,Kano,Kaduna,1456,ULTRA
+54,Kano-Zaria,Kano,Zaria,1432,ULTRA
+55,Kano-Katsina,Kano,Katsina,1619,ULTRA
+56,Kano-Maiduguri,Kano,Maiduguri,1751,ULTRA
+57,Kano-Sokoto,Kano,Sokoto,1563,ULTRA
+58,Kano-Bauchi,Kano,Bauchi,1349,ULTRA
+59,Kaduna-Zaria,Kaduna,Zaria,1247,ULTRA
+60,Kaduna-Katsina,Kaduna,Katsina,1302,ULTRA
