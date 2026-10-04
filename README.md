@@ -13,3 +13,4 @@ python src/pipeline.py
 - invalid foreign keys: bookings with user_ids or trip_ids not found in the deduplicated reference tables are dropped.
 - date window: forward bookings are legitimate, but anything outside the march 15 to june 20 window is excluded.
 - duplicate resolution: when resolving duplicate booking_ids, the row with the most recent `updated_at` (or `created_at` if updated_at is null) is kept.
+
